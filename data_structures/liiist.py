@@ -52,7 +52,10 @@ for i  in details:
         print(j)
 
 
-
+#Reverse a multidimensional list
+List = [[2, 4, 6, 8, 10], [3, 6, 9, 12, 15], [4, 8, 12, 16, 20]] 
+List[0].reverse()
+print(List)
 
 
 
